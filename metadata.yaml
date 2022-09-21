@@ -1,0 +1,48 @@
+_repo: Elsie-Lindtner-A-sequel-to-The-Dangerous-Age_68837
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Marshall, Beatrice
+    alias: Marshall, Emma Beatrice
+    birthdate: 1861
+    deathdate: 1944
+    gutenberg_agent_id: '36815'
+    url: http://www.gutenberg.org/2009/agents/36815
+creator:
+  author:
+    agent_name: Michaëlis, Karin
+    aliases:
+    - Michaelis, Karin
+    - Stangeland, Karin Michaëlis
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '5401'
+    url: http://www.gutenberg.org/2009/agents/5401
+    wikipedia:
+    - https://da.wikipedia.org/wiki/Karin_Micha%C3%ABlis
+    - https://en.wikipedia.org/wiki/Karin_Micha%C3%ABlis
+description: ''
+gutenberg_issued: '2022-08-25'
+identifiers:
+  gutenberg: '68837'
+  lccn: '12013960'
+language: en
+pgterms:marc904: https://archive.org/details/elsielindtnerseq00michiala
+pgterms:marc905: 20201011011639michalis
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :John Lane,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Middle-aged women -- Fiction'
+- !lcsh 'Adoptive parents -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: "Elsie Lindtner\r\nA sequel to \"The Dangerous Age\""
+url: http://www.gutenberg.org/ebooks/68837
